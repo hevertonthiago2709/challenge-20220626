@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fitness Foods LC", "Fitness Foods LC\Fitness Foods LC.csproj", "{AF021891-BF98-4771-8DF5-0E1E2F2E91AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{AEE958D6-1B66-4F8E-8E80-D06804925D55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitness Foods LC.Tests", "Fitness Foods LC.Tests\Fitness Foods LC.Tests.csproj", "{DFFC4FD5-2F69-4EB5-92BD-2EDF6E107181}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF021891-BF98-4771-8DF5-0E1E2F2E91AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF021891-BF98-4771-8DF5-0E1E2F2E91AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF021891-BF98-4771-8DF5-0E1E2F2E91AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF021891-BF98-4771-8DF5-0E1E2F2E91AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFFC4FD5-2F69-4EB5-92BD-2EDF6E107181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFC4FD5-2F69-4EB5-92BD-2EDF6E107181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFC4FD5-2F69-4EB5-92BD-2EDF6E107181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFC4FD5-2F69-4EB5-92BD-2EDF6E107181}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DFFC4FD5-2F69-4EB5-92BD-2EDF6E107181} = {AEE958D6-1B66-4F8E-8E80-D06804925D55}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5530679-C67E-4753-B29D-3D3966A47AD3}
+	EndGlobalSection
+EndGlobal
