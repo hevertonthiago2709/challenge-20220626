@@ -6,6 +6,8 @@ Nesse desafio trabalharemos no desenvolvimento de uma REST API que utilizará os
 
 O projeto tem como objetivo dar suporte a equipe de nutricionistas da empresa Fitness Foods LC para que possam comparar de maneira rápida a informação nutricional dos alimentos da base do Open Food Facts.
 
+Para isso foi criado na API um sistema de atualização que vai realizar o scraping da página do [Open Food Facts](https://world.openfoodfacts.org/) uma vez ao día e salvar os produtos no banco de dados para que possam ser consultos posteriormente de forma individual ou lista de produtos completa. 
+
 # Uso do projeto
 
 Sistema operacional utilizado: Windows
