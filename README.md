@@ -1,6 +1,5 @@
 # Fitnees Food LC
 # Backend Challenge 20220626
-# This is a challenge by [Coodesh](https://coodesh.com/)
 
 # Descrição
 Nesse desafio trabalharemos no desenvolvimento de uma REST API que utilizará os dados do projeto Open Food Facts, um banco de dados aberto com informação nutricional de diversos produtos alimentícios.
